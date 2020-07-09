@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a M.Sc. student in the Biology department at McGill University, supervised by <a href=" http://gonzalezlab.weebly.com/">Andrew Gonzalez</a>. My research project for my master's thesis focuses on land use change, connectivity conservation and participatory modelling.
+I am a M.Sc. student in the Biology department at McGill University. My research project for my master's thesis focuses on land use change, connectivity conservation and participatory modelling.
 
 - 🔭 I’m currently working on:
 
